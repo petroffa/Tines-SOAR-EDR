@@ -20,11 +20,10 @@ The Tines SOAR-EDR project aimed to establish an automated response in a control
 
 ## Steps
 
-SOAR EDR project
-
 Goal: To create a custom detection & response rule within LimaCharlie, and make a playbook that connects the resources Tines, Slack, Email, and has a response capability
 
 Diagram:
+
 ![image](https://github.com/user-attachments/assets/3fac9aa7-a380-4e2f-904f-a03797280da5)
 
 Playbook objective: 
