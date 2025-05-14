@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Tines SOAR-EDR project aimed to establish an automated response in a controlled environment for quickly responding to detected cyber attacks. The primary focus was to ingest and analyze logs of an attacked computer within an Endpoint Detection and Response(EDR) system called LimaCharlie, generating telemetry to create a rule-based alert. This alert will then forward this data to the security orchestration, automation, and response(SOAR) tool Tines. Tines will then quickly send the details of this alert to an email, a Slack channel, and prompt an analyst to isolate this machine. If prompted to isolate, Tines forwards to command to LimaCharlie to instantly separate the computer from the network until further notice. This hands-on experience was designed to deepen understanding of network security, automation, and rule creation.
+This Tines SOAR-EDR project aimed to establish an automated response in a controlled environment for quickly responding to detected cyber attacks. The primary focus was to ingest and analyze logs of an attacked computer within an Endpoint Detection and Response(EDR) system called LimaCharlie, generating telemetry to create a rule-based alert. This alert will then forward this data to the security orchestration, automation, and response(SOAR) tool Tines. Tines will then quickly send the details of this alert to an email, a Slack channel, and prompt an analyst to isolate this machine. If prompted to isolate, Tines forwards to command to LimaCharlie to instantly separate the computer from the network until further notice. This hands-on experience was designed to deepen understanding of network security, automation, and rule creation.
 
 ### Skills Learned
 
