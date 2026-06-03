@@ -30,7 +30,7 @@ Playbook objective:
 Upon detection, it will send a slack message, and send an email containing info about the detection. This will include a user prompt asking to isolate the machine
 
 Spcific goal of the playbook(called “Story” in Tines): 
-1.	Create a detection in LimaCharlie – Detect Hacktool > Tines > Clack & Email
+1.	Create a detection in LimaCharlie – Detect Hacktool > Tines > Slack & Email
 2.	Slack & Email will contain the time, the computer name, the source IP, the process, the command line, potentially the file path, sensor ID, link to the detection
 3.	Tines > Prompt User to isolate the machine (Yes/No)
 4.	If yes: LimaCharlie should automatically isolate the machine, and a message should be sent to Slack. The message should contain the isolation status with a note of “the computer <computer> has been isolated”
